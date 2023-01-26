@@ -1,0 +1,1 @@
+# advanced-barcode-scanner
